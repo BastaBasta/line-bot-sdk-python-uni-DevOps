@@ -1,0 +1,2 @@
+FROM python-app:latest
+RUN rm -rf .git
